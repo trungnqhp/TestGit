@@ -13,7 +13,5 @@ public class hpgclass {
     String a;
     String c;
     String d;
-    String k;
-    String r;
-
+    String j;
 }
