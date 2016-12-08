@@ -11,4 +11,6 @@ package hpg;
  */
 public class hpgclass {
     String a;
+    String c;
+    String d;
 }
