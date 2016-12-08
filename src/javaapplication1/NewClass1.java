@@ -9,7 +9,6 @@ package javaapplication1;
  *
  * @author quang
  */
-public class NewClass {
-    private String Name;
-       private String address;
+public class NewClass1 {
+    
 }

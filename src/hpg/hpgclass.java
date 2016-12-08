@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication1;
+package hpg;
 
 /**
  *
  * @author quang
  */
-public class NewClass {
-    private String Name;
-       private String address;
+public class hpgclass {
+    
 }
