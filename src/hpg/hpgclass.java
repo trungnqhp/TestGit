@@ -10,5 +10,5 @@ package hpg;
  * @author quang
  */
 public class hpgclass {
-    
+    String a;
 }
