@@ -10,9 +10,8 @@ package hpg;
  * @author quang
  */
 public class hpgclass {
-<<<<<<< HEAD
-    String b;
-=======
+
+    String ax;
     String a;
     String c;
     String d;
@@ -20,5 +19,4 @@ public class hpgclass {
     String r;
     String k;
     String g;
->>>>>>> caf7df83d3de99f65ce663427a30b0de775f27da
 }
