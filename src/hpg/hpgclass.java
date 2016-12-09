@@ -21,4 +21,11 @@ public class hpgclass {
     String g;
     String hpg;
     String abc;
+    public String hello()
+    {
+       return "dá";
+    }
+   
+    }
 }
+
