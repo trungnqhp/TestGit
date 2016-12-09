@@ -10,7 +10,7 @@ package hpg;
  * @author quang
  */
 public class hpgclass {
-
+String ax1;
     String ax;
     String a;
     String c;
