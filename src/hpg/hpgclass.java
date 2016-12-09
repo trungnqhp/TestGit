@@ -20,4 +20,5 @@ public class hpgclass {
     String k;
     String g;
     String hpg;
+    String abc;
 }
