@@ -19,6 +19,8 @@ public class hpgclass {
     String r;
     String k;
     String g;
+    String hpg;
+    String abc;
     public String hello()
     {
         return "";
@@ -26,11 +28,6 @@ public class hpgclass {
     public String hello( String a)
     {
         return a;
-    String hpg;
-    String abc;
-    public String hello()
-    {
-       return "dá";
     }
 }
 
