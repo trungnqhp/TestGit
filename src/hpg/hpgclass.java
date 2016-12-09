@@ -10,7 +10,7 @@ package hpg;
  * @author quang
  */
 public class hpgclass {
-    String master;
+    float master;
     String ax;
     String a;
     String c;
