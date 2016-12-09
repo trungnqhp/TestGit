@@ -19,4 +19,12 @@ public class hpgclass {
     String r;
     String k;
     String g;
+    public String hello()
+    {
+        return "";
+    }
+    public String hello( String a)
+    {
+        return a;
+    }
 }
